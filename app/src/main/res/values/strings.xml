@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">a</string>
+    <string-array name="listaopciones">
+        <item>Seleccione una opción</item>
+        <item>Administrador</item>
+        <item>Operador</item>
+        <item>Usuario</item>
+        <item>Invitado</item>
+
+    </string-array>
+</resources>
